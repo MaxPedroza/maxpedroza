@@ -13,5 +13,6 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/javascript-original.svg" alt="JavaScript Logo">
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/nodejs-original.svg" alt="node Logo">
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/csharp-original.svg" alt="csharp Logo">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/react-original.svg" alt="react Logo">
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/angular-original.svg" alt="angular Logo">
 </div>
