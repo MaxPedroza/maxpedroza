@@ -1,10 +1,10 @@
 ## Max Pedroza
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" theme="transparent" src="https://github-readme-stats.vercel.app/api?username=maxpedroza&show_icons=true&theme=transparent" />
+  <img height=150 align="center" theme="transparent" src="https://github-readme-stats.vercel.app/api?username=maxpedroza&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpedroza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxpedroza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent" />
 </a>
 
 <br> <div style="display: flex; align-items: center; justify-content: left;">
