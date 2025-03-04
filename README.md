@@ -16,4 +16,5 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/react-original.svg" alt="react Logo">
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/figma-original.svg" alt="figma Logo">
   <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/angular-original.svg" alt="angular Logo">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/MaxPedroza/icones/refs/heads/main/typescript-original.svg" alt="angular Logo">
 </div>
